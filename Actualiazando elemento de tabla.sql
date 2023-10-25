@@ -1,0 +1,1 @@
+update lectores set nombre = "Hino Deft" where id_lector = 4;
